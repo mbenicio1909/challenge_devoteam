@@ -16,10 +16,9 @@ is updated. - Done
 4. Implement the solution using Apache Beam - Not done
 
 ## Solution:
-    Implemented this python via Cloud Function
-    Authentication via Service Account
-    Trigger is set to be a new upload in Cloud Bucket
-
+- Implemented this python via Cloud Function
+- Authentication via Service Account
+- Trigger is set to be a new upload in Cloud Bucket
 
 ## Pending List:
 - Validation for cases hein the JSON changes (merge schemas)
