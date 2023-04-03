@@ -1,0 +1,5 @@
+project:
+  project_id: 'challenge-381717'  
+  bucket_name: 'marcelo_challenge'  
+  dataset_id: 'challenge_marcelo_requests'
+  table_id: 'challenge_table_1'
